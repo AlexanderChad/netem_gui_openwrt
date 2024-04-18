@@ -1,7 +1,7 @@
 # netem_gui_openwrt
 
 Проект представляет собой реализацию простого web-интерфейса (GUI) для удобного управления утилитой [netem](https://openwrt.org/docs/guide-user/network/traffic-shaping/sch_netem) (эмулятор трафика) на устройствах с [OpenWRT](https://openwrt.org/ru/supported_devices).  
-Целью является упрощение отладки сетевых приложений и устройств. Можно эмулировать 2G, 3G, ADSL, да что угодно и в каких угодно условиях. В GUI добавлены
+Целью является упрощение отладки сетевых приложений и устройств. Можно эмулировать 2G, 3G, ADSL, да что угодно и в каких угодно условиях.  
 
 Вдохновлен проектами: [trafficcop](https://github.com/shuhaowu/trafficcop) и [openwrt-traffic-emulator](https://github.com/vdchuyen/openwrt-traffic-emulator).  
 
